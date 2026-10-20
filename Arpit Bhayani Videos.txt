@@ -1,0 +1,6 @@
+1. DynamoDB Paper Dissection
+2. Google File System Paper Dissection
+3. Handling Million Database Txn at Grab
+4. How Twitter Scaled Their Search
+5. Vertical Sharding Implementation
+6. Avoid Double Payments with Idempotence Keys

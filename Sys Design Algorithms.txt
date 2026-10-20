@@ -1,0 +1,23 @@
+1. Bloom Filter – Speeds up searches by avoiding unnecessary lookups
+
+2. Geohash – Encodes geographic locations for spatial services
+
+3. Hyperloglog – Estimates the count of unique elements efficiently
+
+4. Consistent Hashing – Distributes data evenly across nodes in a cluster
+
+5. Merkle Tree – Detects and verifies differences between distributed datasets
+
+6. Raft Algorithm – Ensures consensus across distributed nodes
+
+7. Lossy Count – Tracks item frequencies with limited memory
+
+8. QuadTree – Organizes spatial data for efficient location queries
+
+9. Operational Transformation – Enables real-time collaboration by syncing edits
+
+10. Leaky Bucket – Controls request flow to prevent overload
+
+11. Rsync – Keeps files synchronized across systems
+
+12. Ray Casting – Simulates rays for rendering and collision detection

@@ -1,0 +1,79 @@
+If you want to become good at system design, then 100% read these blogs by Neo Kim, these are some great breakdowns!!
+
+Scalability & High-Traffic Architectures
+[1] How Cloudflare Supports 55 Million Requests per Second With 15 Postgres Clusters
+https://lnkd.in/eEQP6Apw
+
+[2] How to Scale an App to 10 Million Users on AWS
+https://lnkd.in/eU736g9Q
+
+[3] How Uber Computes ETA at Half a Million Requests per Second
+https://lnkd.in/eVKV2ePC
+
+[4] How YouTube Was Able to Support 2.49 Billion Users With MySQL
+https://lnkd.in/efmJw4Dx
+
+[5] How Google Ads Supports 4.77 Billion Users With a SQL Database
+https://lnkd.in/efnSvwJp
+
+Product & Feature Architecture
+[6] How Does Google Docs Work
+https://lnkd.in/ehPNA7Az
+
+[7] Slack Messenger Architecture
+https://lnkd.in/eATMDjrK
+
+[8] Real-Time Leaderboard Architecture
+https://lnkd.in/edfTDq5R
+
+[9] Pastebin Architecture
+https://lnkd.in/eZpfaVjc
+
+[10] URL Shortener Architecture
+https://lnkd.in/evFTZVQq
+
+API Design & Microservices
+[11] Idempotent API: How Stripe Prevents Double Payment
+https://lnkd.in/erMkqwq4
+
+[12] How API Gateway Works
+https://lnkd.in/eMCr9VjE
+
+[13] Microservices Lessons From Netflix
+https://lnkd.in/eZSM3CRB
+
+[14] Service Discovery Explained
+https://lnkd.in/eCYYwQfU
+
+[15] What Happens When You Type a URL Into Your Browser
+https://lnkd.in/eusuDn5z
+
+Caching, Queues & Distributed Systems
+[16] Redis Use Cases
+https://lnkd.in/ekJMjMG3
+
+[17] Distributed Counter Architecture
+https://lnkd.in/eGwaA62J
+
+[18] How Do Websockets Work
+https://lnkd.in/euHDJUfH
+
+Security & Infra
+[19] How Does HTTPS Work
+https://lnkd.in/enM_pZYd
+
+[20] How Databases Keep Passwords Securely
+https://lnkd.in/edd8-N5k
+
+Design Patterns & Core Concepts
+[21] Saga Design Pattern
+https://lnkd.in/eFXC4-aJ
+
+[22] Consistent Hashing Explained
+https://lnkd.in/eUP9DbCg
+
+[23] Modular Monolith Architecture
+https://lnkd.in/edUqkCKR
+
+[24] JWT Explained
+https://lnkd.in/ek9_BTUc

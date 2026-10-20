@@ -1,0 +1,42 @@
+
+𝐅𝐫𝐞𝐬𝐡𝐞𝐫 / 𝐒𝐃𝐄-𝟏 𝐋𝐞𝐯𝐞𝐥 𝐒𝐲𝐬𝐭𝐞𝐦 𝐃𝐞𝐬𝐢𝐠𝐧
+1. Design a URL shortening service.
+2. Design a basic notification system (email/SMS/push).
+3. Design a simple pastebin/text-sharing service.
+4. Design a rate limiter.
+5. Design a basic library management system.
+6. Design a simple polling/voting app.
+7. Design a parking lot management system.
+8. Design a basic hotel booking system.
+9. Design a simple job scheduler.
+10. Design a basic expense-sharing app (Splitwise).
+11. Design a simple in-memory key-value store.
+12. Design a basic online quiz platform.
+
+𝐒𝐃𝐄-𝟐 / 𝐌𝐢𝐝 𝐋𝐞𝐯𝐞𝐥 𝐒𝐲𝐬𝐭𝐞𝐦 𝐃𝐞𝐬𝐢𝐠𝐧
+1. Design a scalable food delivery system like Swiggy.
+2. Design a ride-sharing system like Uber.
+3. Design a distributed cache like Memcached.
+4. Design a real-time chat application like Slack.
+5. Design a content delivery network (CDN) like Cloudflare.
+6. Design a payment gateway/transaction processing system.
+7. Design a ticket booking system with seat locking (BookMyShow-style).
+8. Design an inventory management system for e-commerce.
+9. Design a rate-limited API gateway.
+10. Design a job queue/task processing system like Celery.
+11. Design a scalable logging and monitoring system.
+12. Design a collaborative document editing system like Google Docs.
+
+𝐒𝐃𝐄-𝟑 / 𝐒𝐞𝐧𝐢𝐨𝐫 𝐋𝐞𝐯𝐞𝐥 𝐒𝐲𝐬𝐭𝐞𝐦 𝐃𝐞𝐬𝐢𝐠𝐧
+1. Design a distributed messaging system like WhatsApp/Kafka.
+2. Design a globally distributed database with multi-region replication.
+3. Design a search engine's indexing pipeline like Google/Elasticsearch.
+4. Design a fraud detection system for real-time transactions.
+5. Design a video streaming platform like YouTube/Netflix.
+6. Design a distributed file storage system like HDFS/S3.
+7. Design a recommendation engine at Instagram/Netflix scale.
+8. Design a distributed rate limiter across multiple data centers.
+9. Design an ad-serving system with real-time bidding.
+10. Design a highly available leader-election/consensus system.
+11. Design a global CDN with edge caching and cache invalidation.
+12. Design a distributed transaction system with eventual consistency guarantees.
